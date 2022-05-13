@@ -1,0 +1,16 @@
+.ShoutOutList_Container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ShoutOutList_FormContainer{
+    width: 500px;
+}

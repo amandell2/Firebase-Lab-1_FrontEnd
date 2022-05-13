@@ -1,0 +1,25 @@
+.SingleShoutOut_Container{
+    background-color: white;
+    margin: 0px 20px 10px 20px;
+    padding: 1px 20px;
+    width: 400px;
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #aaa;
+}
+
+.to{
+    font-weight: bolder;
+    margin: 5px 0px;
+}
+
+.from{
+    font-style: italic;
+    margin: 5px 0px;
+    color: #333;
+}
+
+.text{
+    margin: 5px 0px;
+}
